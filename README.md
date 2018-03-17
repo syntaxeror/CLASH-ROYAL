@@ -1,2 +1,0 @@
-# CLASH-ROYAL
-Clash Royal
